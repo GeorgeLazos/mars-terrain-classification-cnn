@@ -1,0 +1,9 @@
+,Pred_other,Pred_crater,Pred_dark dune,Pred_slope streak,Pred_bright dune,Pred_impact ejecta,Pred_swiss cheese,Pred_spider
+True_other,11766,160,64,147,15,4,33,23
+True_crater,296,665,3,4,9,1,1,1
+True_dark dune,56,0,166,1,4,0,0,1
+True_slope streak,232,4,1,229,0,0,0,0
+True_bright dune,15,1,0,0,328,0,1,5
+True_impact ejecta,24,0,0,1,0,21,0,0
+True_swiss cheese,90,4,1,2,0,0,133,0
+True_spider,32,1,0,0,3,0,0,59

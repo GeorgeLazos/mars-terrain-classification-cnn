@@ -1,0 +1,20 @@
+parameter,value
+model_name,mars_cnn_8
+seed,2003
+Image_size,"(160, 160)"
+Data_split,"(0.7, 0.1, 0.2)"
+epochs,100
+batch_size,64
+learning_rate,0.0005
+dropout_rate,0.3
+early_stop_patience,10
+lr_reduce_patience,1
+lr_reduce_factor,0.75
+optimizer,Adam
+loss_function,sparse_categorical_crossentropy
+class_weights,"{0: 0.1495220768888785, 1: 1.8630102040816328, 2: 7.997653316645807, 3: 3.915517769607843, 4: 5.216428571428572, 5: 39.445216049382715, 6: 7.957814445828144, 7: 19.189564564564563}"
+conv_weight_init,he_normal
+final_weight_init,glorot_uniform
+total_parameters,21328904
+trainable_parameters,21328200
+l2_regularization,5e-05

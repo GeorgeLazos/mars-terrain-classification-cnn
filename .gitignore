@@ -1,0 +1,5 @@
+Data/
+models/
+processed_data/
+__pycache__/
+*.pyc
